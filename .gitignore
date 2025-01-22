@@ -1,0 +1,28 @@
+# Ignorar la carpeta de compilaciones temporales
+/Library/
+/Temp/
+/obj/
+/build/
+
+# Ignorar archivos específicos
+*.suo
+*.user
+*.userprefs
+*.cache
+*.bak
+*.log
+
+# Ignorar metadatos de Unity
+*.meta
+
+# Ignorar cualquier tipo de paquete importado
+Packages/
+
+# Ignorar cualquier archivo de compilación
+*.dll
+*.pdb
+
+# Ignorar cachés del editor (VSCode, etc.)
+.vscode/
+.idea/
+
